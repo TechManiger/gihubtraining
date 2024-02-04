@@ -3,3 +3,9 @@ should have server
 should local files 
 should have theme
 should have frontend design 
+
+date 4 feb 2024
+ database design
+theme design 
+server configuration
+Money to coder 
